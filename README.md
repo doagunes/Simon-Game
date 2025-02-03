@@ -1,6 +1,14 @@
 # Simon-Game
 
-This game is a digital version of the classic "Simon Says" game. Here's how it works:
+This game is a digital version of the classic "Simon Says" game.
+
+## Start Screen
+![image](https://github.com/user-attachments/assets/fe60cde6-c29a-41d2-9aa0-84a5b12ca2df)
+
+## Game ending
+![image](https://github.com/user-attachments/assets/2671cb53-fa72-4b2c-8b68-b733cc1aa556)
+
+## How it works:
 
 1. Setup:
   
@@ -45,3 +53,8 @@ This game is a digital version of the classic "Simon Says" game. Here's how it w
     When the player presses any key, the game resets all variables and starts a new game from the beginning.
 
 The main objective of the game is to see how long the player can remember and replicate the increasingly long sequence of colors.
+
+
+
+
+
